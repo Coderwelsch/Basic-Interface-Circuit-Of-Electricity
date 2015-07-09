@@ -1,0 +1,21 @@
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="279.9px" height="274.2px" viewBox="0 0 279.9 274.2" enable-background="new 0 0 279.9 274.2"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="23.4" width="279.9" height="250.8"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<radialGradient id="SVGID_3_" cx="146.356" cy="133.5382" r="133.5382" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFF200;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<circle clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" cx="146.4" cy="133.5" r="133.5"/>
+</g>
+</svg>
